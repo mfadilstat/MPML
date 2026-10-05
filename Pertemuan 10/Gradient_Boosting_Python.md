@@ -21,7 +21,6 @@ Program **Gradient Boosting Regressor** untuk memprediksi ukuran perkembangan pe
 5. [Penjelasan Kode & Interpretasi Hasil](#5-penjelasan-kode--interpretasi-hasil)
 6. [Ringkasan Hasil](#6-ringkasan-hasil)
 7. [Kesimpulan](#7-kesimpulan)
-8. [Catatan & Saran Pengembangan](#8-catatan--saran-pengembangan)
 
 ---
 
