@@ -24,7 +24,6 @@ Skrip ini adalah padanan versi R dari notebook Python `Gradient_Boosting.ipynb` 
 6. [Ringkasan Hasil](#6-ringkasan-hasil)
 7. [Perbandingan dengan Versi Python](#7-perbandingan-dengan-versi-python)
 8. [Kesimpulan](#8-kesimpulan)
-9. [Catatan & Saran Pengembangan](#9-catatan--saran-pengembangan)
 
 ---
 
