@@ -1,8 +1,8 @@
-# Mata kuliah: Modern Prediksi dan Machine Learning
+<h1>Mata kuliah: Modern Prediksi dan Machine Learning</h1>
+<h3>Pertemuan 9: Random Forest</h3>
 
-Author: Muhammad Fadil
-
-Update: 2026-10-01
+<tt>Author: Muhammad Fadil</tt><br>
+<tt>Update: 2026-10-01</tt>
 
 # Klasifikasi Bunga Iris dengan Random Forest (Python / scikit-learn)
 
@@ -306,6 +306,7 @@ print(rf.predict_proba(new).round(3))
 
 ## Referensi
 
+- Fadil, M., Islamiyati, A., & Thamrin, S. A. (2025). Classification of nutritional status in toddlers using the support vector machine method. _Communications in Mathematical Biology and Neuroscience_, 2025, Article ID 57. https://doi.org/10.28919/cmbn/9126
 - Breiman, L. (2001). _Random Forests_. Machine Learning, 45(1), 5–32.
 - Fisher, R. A. (1936). _The use of multiple measurements in taxonomic problems_. Annals of Eugenics, 7(2), 179–188.
 - Pedregosa, F. et al. (2011). _Scikit-learn: Machine Learning in Python_. JMLR, 12, 2825–2830.
