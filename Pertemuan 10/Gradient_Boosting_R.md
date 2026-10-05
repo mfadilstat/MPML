@@ -368,6 +368,7 @@ Mengambil tiga pasien pertama data uji (tanpa kolom `y`) dan memprediksi dengan 
 
 ## Referensi
 
+- Fadil, M., Islamiyati, A., & Thamrin, S. A. (2025). Classification of nutritional status in toddlers using the support vector machine method. _Communications in Mathematical Biology and Neuroscience_, 2025, Article ID 57. https://doi.org/10.28919/cmbn/9126
 - Friedman, J. H. (2001). _Greedy Function Approximation: A Gradient Boosting Machine_. Annals of Statistics, 29(5), 1189–1232.
 - Friedman, J. H. (2002). _Stochastic Gradient Boosting_. Computational Statistics & Data Analysis, 38(4), 367–378.
 - Efron, B., Hastie, T., Johnstone, I. & Tibshirani, R. (2004). _Least Angle Regression_. Annals of Statistics, 32(2), 407–499.
