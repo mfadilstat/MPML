@@ -48,7 +48,6 @@ Program ini menerapkan **Support Vector Machine (SVM)** untuk mengklasifikasikan
 
 ```bash
 pip install numpy pandas matplotlib scikit-learn jupyter
-jupyter notebook Pertemuan11_SVM.ipynb
 ```
 
 Jalankan seluruh sel dari atas ke bawah (**Run All**). Notebook menghasilkan berkas:
