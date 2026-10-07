@@ -55,15 +55,6 @@ install.packages(c("e1071", "caret", "pROC", "kernlab"))
 
 `kernlab` tidak dipanggil langsung oleh skrip, tetapi **dibutuhkan** oleh `caret` agar `method = "svmRadial"` dapat berjalan.
 
-1. Letakkan `breast_cancer.csv` di _working directory_ R.
-2. Jalankan:
-
-```r
-source("SVM_R.R")
-# atau di terminal:
-# Rscript SVM_R.R
-```
-
 Grafik (`plot(tuned)`, kurva ROC, `plot(svm_cv)`, dan batas keputusan) tampil di jendela _Plots_ RStudio.
 
 ## 4. Konsep Singkat
